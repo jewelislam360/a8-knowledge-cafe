@@ -8,7 +8,7 @@ const Blog = () => {
                 <h1 className='text-center fw-bold mb-4'>Question & Answer Blog</h1>
             </div>
 
-            <div className='Regular shadow p-4 rounded mb-4'>
+            <div className='Regular border border-primary p-4 rounded mb-4'>
                 <h2>1. Props vs state</h2>
                 <h3 className='ms-3 mb-4'>Answer :</h3>
                 <div className='ms-5'>
@@ -16,7 +16,7 @@ const Blog = () => {
                     <h5 className='text-secondary'>State : Props are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It allows passing data from one component to other components. It is similar to function arguments and can be passed to the component the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component. </h5>
                 </div>
             </div>
-            <div className='Regular shadow p-4 rounded mb-4'>
+            <div className='Regular border border-primary p-4 rounded mb-4'>
                 <h2>2. How does useState work?</h2>
                 <h3 className='ms-3 mb-4'>Answer :</h3>
                 <div className='ms-5'>
@@ -25,7 +25,7 @@ const Blog = () => {
 
                 </div>
             </div>
-            <div className='Regular shadow p-4 rounded mb-4'>
+            <div className='Regular border border-primary p-4 rounded mb-4'>
                 <h2>3. Purpose of useEffect other than fetching data.</h2>
                 <h3 className='ms-3 mb-4'>Answer :</h3>
                 <div className='ms-5'>
@@ -35,7 +35,7 @@ const Blog = () => {
                     </h5>
                 </div>
             </div>
-            <div className='Regular shadow p-4 rounded mb-4'>
+            <div className='Regular border border-primary p-4 rounded mb-4'>
                 <h2>4. How Does React work?</h2>
                 <h3 className='ms-3 mb-4'>Answer :</h3>
                 <div className='ms-5'>
