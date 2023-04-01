@@ -2,36 +2,36 @@
     {
         "id": 1,
         "title": "How to get your first job as a self-taught programmer",
-        "time": 7,
-        "name": "Mr. Raju",
-        "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680357609~exp=1680358209~hmac=b59170e3df0581bef858149548eecf1834db58fa6e37b0c3c8f1d72034d32869",
-        "author": " https://images.unsplash.com/photo-1615109398623-88346a601842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
+        "time": 13,
+        "name": "Mr. Junayed",
+        "img": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010132.jpg?w=740&t=st=1680359378~exp=1680359978~hmac=479e8dfe5fb733a31d0c872f995008e2a622c7823702b03178605bae08c05444",
+        "author": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010132.jpg?w=740&t=st=1680359378~exp=1680359978~hmac=479e8dfe5fb733a31d0c872f995008e2a622c7823702b03178605bae08c05444"
        
     },
 
     {
         "id": 3,
         "title": "How to get your first job as a self-taught programmer",
-        "time": 5,
+        "time": 7,
         "name": "Maruf",
-        "author": " https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "img": "https://img.freepik.com/free-photo/bohemian-man-with-his-arms-crossed_1368-3542.jpg?w=740&t=st=1680357531~exp=1680358131~hmac=5ec1fe6cd9529f6271a59720e187dde1ad5f0576575f2e7ef99813e7f2594885"
+        "author": "https://img.freepik.com/free-photo/sofware-developer-thinking-while-touching-beard-while-typing-laptop-sitting-desk-with-multiple-screens-parsing-code-focused-database-admin-working-with-team-coding-background_482257-33556.jpg?w=826&t=st=1680359214~exp=1680359814~hmac=238220549ce8e02a0ba14b99405bfd95514395a1ae51a58b4f2096e9aec298f2",
+        "img": "https://img.freepik.com/free-photo/dangerous-hooded-hacker-her-partner-hacking-government-planting-malware_482257-20613.jpg?w=826&t=st=1680359575~exp=1680360175~hmac=a20fd5f0ede918e37714b81f92bee0ef71a31931ff54a00ffaa7dd80e7ec32ff"
         
     },
     {
         "id": 4,
         "title": "How to get your first job as a self-taught programmer",
-        "time": 10,
-        "name": "Morsalin",
+        "time": 20,
+        "name": "Zihad",
         "author": "https://img.freepik.com/premium-photo/adult-handsome-man-raising-hands-head-open-mouthed-feeling-extremely-lucky-surprised-excited-happy_1194-220325.jpg?w=740",
         "img": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1680203456~exp=1680204056~hmac=9f6e0d50316cc9a5bd7bb4491192954119166e7f34b4a8d2167da1be2fca503a"
     },
     {
         "id": 2,
-        "name": "Rumman",
+        "name": "Masud",
         "title": "How to get your first job as a self-taught programmer",
-        "time": 15,
-        "author": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "time": 9,
+        "author": "https://img.freepik.com/free-photo/dangerous-hooded-hacker-her-partner-hacking-government-planting-malware_482257-20613.jpg?w=826&t=st=1680359575~exp=1680360175~hmac=a20fd5f0ede918e37714b81f92bee0ef71a31931ff54a00ffaa7dd80e7ec32ff",
         "img": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80"
     }
 ]
