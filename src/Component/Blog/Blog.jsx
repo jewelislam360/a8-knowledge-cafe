@@ -12,8 +12,8 @@ const Blog = () => {
                 <h2>1. Props vs state</h2>
                 <h3 className='ms-3 mb-4'>Answer :</h3>
                 <div className='ms-5'>
-                    <h5 className='mb-3 text-secondary'> Props : Props are (immutable) values passed from a parent component to a child component. Props are used to configure a component when it is created. They are usually data that will not change during the lifetime of a component.</h5>
-                    <h5 className='text-secondary'>State : State, on the other hand, is mutable data. State is used to store data that can change over time, such as user input or responses from API calls. When state changes, the component will rerender, allowing the user interface to update accordingly. </h5>
+                    <h5 className='mb-3 text-secondary'> Props :The state is an updatable structure that is used to contain data or information about the component and can change over time. The change in state can happen as a response to user action or system event. It is the heart of the react component which determines the behavior of the component and how it will render. A state must be kept as simple as possible. It represents the component's local state or information. It can only be accessed or modified inside the component or by the component directly.</h5>
+                    <h5 className='text-secondary'>State : Props are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It allows passing data from one component to other components. It is similar to function arguments and can be passed to the component the same way as arguments passed in a function. Props are immutable so we cannot modify the props from inside the component. </h5>
                 </div>
             </div>
             <div className='Regular shadow p-4 rounded mb-4'>
@@ -21,7 +21,7 @@ const Blog = () => {
                 <h3 className='ms-3 mb-4'>Answer :</h3>
                 <div className='ms-5'>
                     <h5 className='mb-3 text-secondary'>
-                        useState is a React hook which allows you to add state to a functional component. It returns an array with two values: the current state and a function that allows you to update it. The first argument is the initial state, and the second argument is an optional callback function that will be invoked after the state has been updated. To update the state, you call the function returned from useState with a new value. React will then re-render the component with the new value. </h5>
+                    useState is React Hook that allows you to add state to a functional component. It returns an array with two values: the current state and a function to update it. The Hook takes an initial state value as an argument and returns an updated state value whenever the setter function is called. </h5>
 
                 </div>
             </div>
@@ -31,15 +31,8 @@ const Blog = () => {
                 <div className='ms-5'>
                     <h5 className='mb-3 text-secondary'>
 
-                        1. To perform DOM manipulation such as adding event listeners.
-                        <br />
-                        2. To initialize and clean up resources like subscriptions and timers.
-                        <br />
-                        3. To perform data fetching in specific lifecycle methods.
-                        <br />
-                        4. To set and clear local state (when using Hooks).
-                        <br />
-                        5. To share non-UI logic between components.</h5>
+                    The useEffect in react js allows you to perform side effects in your components. The react useEffect examples of side effects include retrieving data, direct DOM updates, and timers. The second argument is optional.
+                    </h5>
                 </div>
             </div>
             <div className='Regular shadow p-4 rounded mb-4'>
@@ -48,7 +41,7 @@ const Blog = () => {
                 <div className='ms-5'>
                     <h5 className='mb-3 text-secondary'>
 
-                        React is a JavaScript library used to build user interfaces. It works by breaking down a user interface into components, which are then rendered using a virtual DOM. React components are written using a combination of JavaScript, HTML, and CSS. When a user interacts with a React application, the components re-render using the virtual DOM, allowing for fast and efficient updates to the user interface. React also uses Redux for state management, allowing for the efficient data flow between components.
+                    React keeps a lightweight representation of the real DOM in the memory, and that is known as the virtual DOM. When the state of an object changes, the virtual DOM changes only that object in the real DOM, rather than updating all the objects.
                     </h5>
                 </div>
             </div>
