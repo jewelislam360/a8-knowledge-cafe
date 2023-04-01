@@ -10,13 +10,13 @@ const SideCart = ({ watchTime, bookMarkItem }) => {
     }, [watchTime])
 
     return (
-        <div className=' align-items-center justify-content-center w-100 text-center  mt-2 '>
+        <div className=' align-items-center justify-content-center w-100 text-center sticky-top  mt-2 '>
             <p className='mb-3 fw-bold text-center sideCart d-flex align-items-center justify-content-center'>Spent time on read : {time} min</p>
 
             <div className='card'>
 
                 {
-                    bookMarkItem.map(bM => <p className='card mb-4 mt-4 text-center sideCartBottomtwo Small shadow p-3'>{bM.title}</p>)
+                    bookMarkItem.map(bM => <p className='card mb-4 mt-4 text-center sideCartBottomtwo Small border border-primary p-3'>{bM.title}</p>)
                 }
 
 
